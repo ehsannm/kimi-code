@@ -2,4 +2,4 @@
 "@moonshot-ai/kimi-code": patch
 ---
 
-Shorten built-in tool and subagent prompts.
+Shorten built-in tool, subagent, and goal/plan reminders.
